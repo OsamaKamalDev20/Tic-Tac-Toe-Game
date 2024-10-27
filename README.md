@@ -1,16 +1,24 @@
-# game
+# ❌✔️ Tic Tac Toe Game ❌✔️
+Tic Tac Toe is a simple two-player game where the goal is to be the first to align three of your symbols (X or O) either horizontally, vertically, or diagonally on a 3x3 grid.
 
-A new Flutter project.
+## Game Setup:
+The game is played on a 3x3 grid. One player uses the symbol "X," and the other uses "O."
 
-## Getting Started
+## Rules:
+###### a: Players take turns placing their symbols in an empty cell on the grid.
+###### b: The first player to get three of their symbols in a row (horizontally, vertically, or diagonally) wins the game.
+###### c: If all 9 cells are filled without any player aligning three symbols, the game is a draw.
 
-This project is a starting point for a Flutter application.
+## Winning Conditions: 
+A player wins if they can create a continuous line of three of their symbols in:
 
-A few resources to get you started if this is your first Flutter project:
+###### A row (horizontal line),
+###### A column (vertical line), or
+###### A diagonal.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ❌✔️ Demo of the Game ❌✔️
+![TIC-TAC-TOE_Game](https://github.com/user-attachments/assets/31b87a2e-ae20-42aa-8894-880653329b98)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ❌✔️ Video of the Game ❌✔️
+https://github.com/user-attachments/assets/d331d979-42d3-46e1-b3f8-a9772bb8fefd
+
