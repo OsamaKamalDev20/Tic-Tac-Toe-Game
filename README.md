@@ -12,9 +12,9 @@ The game is played on a 3x3 grid. One player uses the symbol "X," and the other 
 ## Winning Conditions: 
 A player wins if they can create a continuous line of three of their symbols in:
 
-###### A row (horizontal line),
-###### A column (vertical line), or
-###### A diagonal.
+##### A row (horizontal line),
+##### A column (vertical line), or
+##### A diagonal.
 
 ## ❌✔️ Demo of the Game ❌✔️
 ![TIC-TAC-TOE_Game](https://github.com/user-attachments/assets/31b87a2e-ae20-42aa-8894-880653329b98)
